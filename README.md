@@ -157,6 +157,8 @@ Containerizing:
     
     - uses a .dockerfile to build the necessary dependencies from an auto generated  requirements.txt
     - pushes the docker image to dockerhub
+    
+![image](https://user-images.githubusercontent.com/100158073/216729225-fa63d964-3253-4175-9037-490a872eb5dd.png)
 
 CI/CD:
 
