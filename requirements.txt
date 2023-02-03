@@ -1,0 +1,3 @@
+boto3==1.26.61
+requests==2.27.1
+selenium==4.8.0
